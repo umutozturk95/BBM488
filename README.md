@@ -12,12 +12,12 @@ kullanılmıştır.
 
 
 Kısacası bu projlerde kullanılan teknolojiler şu şekildedir:
--Servlet
--JSP
--Spring Core/Spring MVC
--Hibernate
--Angular JS
--Maven
+<br>-Servlet
+<br>-JSP
+<br>-Spring Core/Spring MVC
+<br>-Hibernate
+<br>-Angular JS
+<br>-Maven
 
-
+<br>
 Sunucu olarak ise Apache Tomcat 9 sürümü kullanılmıştır.Ayrıca projeler için gerekli olan jarlar için Maven teknolojisi kullanılmıştır.
